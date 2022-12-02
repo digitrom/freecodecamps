@@ -1,1 +1,1 @@
-const quotient = 66 / 3`3;
+const quotient = 66 / 33;
